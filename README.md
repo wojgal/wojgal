@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning with PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wojgal/Portfolio](https://github.com/wojgal/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio Repository](https://github.com/wojgal/Portfolio)
 
-- 📫 How to reach me **wojgal21@gmail.com**
+- 📫 Reach me via email **wojgal21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
